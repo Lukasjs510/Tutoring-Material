@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SuperCircleDrawer
+comment1.params=numCircles
+comment1.target=SuperCircleDrawer(int)
+comment2.params=newCircle
+comment2.target=void\ addCircle(Circle)
+comment3.params=
+comment3.target=void\ drawCircles()
+comment4.params=
+comment4.target=void\ eraseCircles()
+comment5.params=minDiameter
+comment5.target=void\ eraseCircles(int)
+comment6.params=
+comment6.target=void\ removeSmallest()
+comment7.params=c1\ c2
+comment7.target=void\ replace(Circle,\ Circle)
+comment8.params=rc
+comment8.target=void\ replaceLargest(Circle)
+numComments=9

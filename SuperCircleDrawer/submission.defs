@@ -1,0 +1,5 @@
+CMPU 161c (MTThF at 11:00am) {
+    .file.include = *.java;
+    .file.jar = <username>.zip;
+   .transport = http://207.207.103.93/~brichards/Submit/uploader.php?identity=<username>&folder=<address>&date=<date>;
+}
